@@ -21,6 +21,15 @@ I focus on **clean UI**, smooth interactions, and performance-driven design.
 
 Always learning, improving, and working on projects that bring real value.
 
+🌱 I’m currently learning more about Typescript.
+
+💬 Ask me about HTML, CSS, & JavaScript.
+
+📫 How to reach me truemusman@gmail.com
+
+⚡ Fun fact I am a junior developer at the age of 16.
+
+👨‍💻 checkout my portfolio https://usman-pro.vercel.app/
 ---
 
 ## 🛠️ Skills & Tools
