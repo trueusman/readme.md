@@ -40,6 +40,11 @@ Always learning, improving, and working on projects that bring real value.
   <a href="https://www.youtube.com/@truemusman"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube&style=for-the-badge"/></a>
   <a href="https://www.facebook.com/trueusman/"><img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&style=for-the-badge"/></a>
 </p>
+<p align="center">
+  <a href="mailto:truemusman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
 
 
 ---
