@@ -29,7 +29,7 @@ Always learning, improving, and working on projects that bring real value.
 
 ⚡ Fun fact I am a junior developer at the age of 16.
 
-👨‍💻 checkout my portfolio https://usman-pro.vercel.app/
+👨‍💻 checkout my portfolio https://muhammadusmanghani.vercel.app
 ---
 
 ## 🛠️ Skills & Tools
